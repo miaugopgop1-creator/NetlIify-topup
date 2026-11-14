@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "Netilify Topup";
+var website_name = "Netliify Topup";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
